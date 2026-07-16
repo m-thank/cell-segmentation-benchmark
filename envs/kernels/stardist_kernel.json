@@ -1,0 +1,17 @@
+{
+ "argv": [
+  "/ix/apoholek/mxie/envs/stardist/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python (stardist)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ },
+ "env": {
+  "LD_LIBRARY_PATH": "/software/rhel9/manual/install/cuda/12.1.1/lib64:${LD_LIBRARY_PATH}"
+ }
+}
